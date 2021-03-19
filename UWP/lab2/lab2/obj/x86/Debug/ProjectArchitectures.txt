@@ -1,0 +1,1 @@
+I:\SEM3\UWP\lab2\lab2\lab2.csproj;x86

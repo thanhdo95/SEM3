@@ -76,6 +76,21 @@
     <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\02.xbf">
       <PackagePath>02.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\03.xbf">
+      <PackagePath>03.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\04.xbf">
+      <PackagePath>04.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\05.xbf">
+      <PackagePath>05.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\06.xbf">
+      <PackagePath>06.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\07.xbf">
+      <PackagePath>07.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="I:\SEM3\UWP\lab01\lab01\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>

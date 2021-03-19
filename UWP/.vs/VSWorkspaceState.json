@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lab2",
+    "\\lab2\\lab2",
+    "\\lab2\\lab2\\Models"
   ],
+  "SelectedNode": "\\lab2\\lab2\\Models\\Book.cs",
   "PreviewInSolutionExplorer": false
 }
