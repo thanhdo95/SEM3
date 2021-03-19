@@ -1,0 +1,104 @@
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\App.xbf
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\MainPage.xbf
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Exam.xr.xml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Exam.exe
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Exam.pdb
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\resources.pri
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\AppxManifest.xml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Core\AppxManifest.xml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Core\Exam.exe
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Exam.build.appxrecipe
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\System.Runtime.dll
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Exam.csprojAssemblyReference.cache
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\App.g.i.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\App.g.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\MainPage.g.i.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\MainPage.g.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\App.xaml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\MainPage.xaml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\App.xbf
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\MainPage.xbf
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Exam.csproj.CopyComplete
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Exam.exe
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Exam.pdb
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\ResourceHandlingTask.state
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\priconfig.xml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\priconfig.xml.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\filtered.layout.resfiles
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\excluded.layout.resfiles
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\resources.resfiles
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\resources.resfiles.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\pri.resfiles
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\pri.resfiles.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\qualifiers.txt
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\ProjectArchitectures.txt
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\SQLite.Net.Platform.WinRT.dll
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\SQLite.Net.dll
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\bin\x86\Debug\Search.xbf
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Search.g.i.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Search.g.cs
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Search.xaml
+D:\Bai Tap FPT\Ki 3\1.Universal Window App\Exam\Exam\obj\x86\Debug\Search.xbf
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\App.xbf
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\MainPage.xbf
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Search.xbf
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Exam.xr.xml
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Exam.exe
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Exam.pdb
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\resources.pri
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\AppxManifest.xml
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Core\AppxManifest.xml
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Core\Exam.exe
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Exam.build.appxrecipe
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\System.Runtime.dll
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\SQLite.Net.Platform.WinRT.dll
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\SQLite.Net.dll
+I:\SEM3\UWP\Exam\Exam\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Exam.csprojAssemblyReference.cache
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\App.g.i.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\App.g.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\MainPage.g.i.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\MainPage.g.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Search.g.i.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Search.g.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\XamlTypeInfo.g.cs
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\App.xaml
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Search.xaml
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\MainPage.xaml
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\App.xbf
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Search.xbf
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\MainPage.xbf
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\XamlSaveStateFile.xml
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Exam.csproj.CoreCompileInputs.cache
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Exam.csproj.CopyComplete
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Exam.exe
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\Exam.pdb
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\ResourceHandlingTask.state
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\priconfig.xml
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\priconfig.xml.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\unfiltered.layout.resfiles
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\filtered.layout.resfiles
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\filtered.layout.resfiles.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\excluded.layout.resfiles
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\excluded.layout.resfiles.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\resources.resfiles
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\resources.resfiles.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\pri.resfiles
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\pri.resfiles.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\qualifiers.txt
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\qualifiers.txt.intermediate
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\ProjectArchitectures.txt
+I:\SEM3\UWP\Exam\Exam\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json

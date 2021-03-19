@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Exam.Search"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Exam"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="73,60,0,0" Text="Search Contact" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" FontSize="30"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,120,0,0" Text="Name" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="73,166,0,0" x:Name="textBoxName1" TextWrapping="Wrap" VerticalAlignment="Top" Width="352"/>
+        <TextBlock HorizontalAlignment="Left" Margin="73,232,0,0" Text="PhoneNumber" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="73,290,0,0" x:Name="textBoxPhone1" TextWrapping="Wrap" VerticalAlignment="Top" Width="352"/>
+        <Button Content="Search" Margin="73,382,0,0" VerticalAlignment="Top" Width="352" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="91,468,0,0" x:Name="TextBlockShow" TextWrapping="Wrap" VerticalAlignment="Top" Height="128" Width="334"/>
+
+    </Grid>
+</Page>
