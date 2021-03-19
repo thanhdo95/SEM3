@@ -46,8 +46,31 @@
                     </DataTemplate>
                 </ComboBox.ItemTemplate>
             </ComboBox>
-            
-            
+
+
+            <Button Grid.Row="3"
+                    Grid.Column="1"
+                    Name="NewContactButton"
+                    Click="NewContactButton_Click"
+                    Content="Add"
+                    Margin="10"/>
         </Grid>
+
+        <GridView Grid.Row="2" ItemsSource="{x:Bind Contacts}" Margin="20">
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="data:Contact">
+                    <StackPanel HorizontalAlignment="Center" Margin="10">
+                        <Image Source="{x:Bind AvatarPath}" Width="100" Height="100"/>
+                        <StackPanel Orientation="Horizontal"
+                                    Margin="100"
+                                    HorizontalAlignment="Center"/>
+                        <TextBlock Text="{x:Bind FirstName}" Margin="0,0,5,0" />
+                        <TextBlock Text="{x:Bind LastName}" />
+
+                    </StackPanel>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+
+        </GridView>
     </Grid>
 </Page>
