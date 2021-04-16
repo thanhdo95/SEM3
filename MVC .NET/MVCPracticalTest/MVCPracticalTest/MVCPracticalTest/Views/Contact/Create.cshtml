@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+<div>
+    @using (Html.BeginForm("Create", "Contact", FormMethod.Post))
+    {
+        @Html.TextBoxFor(m => m.Name, new { @placeholder = "Contact Name" })
+        @Html.TextBoxFor(m => m.Number, new { @placeholder = "Contact Number" })
+        @Html.TextBoxFor(m => m.GroupName, new { @placeholder = "Group Name" })
+        @Html.TextBoxFor(m => m.HireDate, new { @placeholder = "HireDate" })
+        @Html.TextBoxFor(m => m.BirthDay, new { @placeholder = "BirthDay" })
+    }
+    <form action="#" method="post">
+        <input type="text" name="Contact Name" placeholder="Contact Name" />
+        <input type="text" name="Contact Number" placeholder="Contact Number" />
+        <input type="text" name="Group Name" placeholder="Group Name" />
+        <input type="datetime" name="Hire Date" placeholder="Hire Date" />
+        <input type="datetime" name="Birthday" placeholder="Birthday" />
+
+    </form>
+</div>
+

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<FptAptechEdu.Models.Student_Course>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.GRADE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Course.CourseTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Student.LastName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.GRADE)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Course.CourseTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Student.LastName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EnrollID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EnrollID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EnrollID })
+        </td>
+    </tr>
+}
+
+</table>
